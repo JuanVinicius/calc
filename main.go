@@ -26,7 +26,7 @@ func div(fx float64, fy float64) float64 {
 //div := x / y
 
 func main() {
-	x := 7
+	x := 8
 	y := 7
 	var fx float64 = float64(x)
 	var fy float64 = float64(y)
